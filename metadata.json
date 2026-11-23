@@ -1,0 +1,6 @@
+{
+  "name": "VakilKart",
+  "description": "Online Legal Notice, Affidavit, MoU & legal documentation drafting requests across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
